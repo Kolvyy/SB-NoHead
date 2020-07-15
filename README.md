@@ -10,4 +10,4 @@ Any Player v. Player Combat with weapons headshots will do the same amout of dam
 
 # Any Issues Or Help 
 
-https://discord.gg/jC9YgyK
+https://discord.gg/gmAcpDU
