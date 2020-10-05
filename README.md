@@ -8,6 +8,9 @@
 
 Any Player v. Player Combat with weapons headshots will do the same amout of damage as body shots.
 
-# Any Issues Or Help 
 
-https://discord.gg/gmAcpDU
+# Personal Discord
+
+Talk about coding, updates on new and streams, first look on new stuff.
+
+https://discord.gg/gDzfnm8
